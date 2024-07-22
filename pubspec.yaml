@@ -1,9 +1,9 @@
 name: choiwoosung_intro_page_lego
 description: "lego is all you need"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/Urusung/choiwoosung_intro_page_lego
 
-version: 1.0.1
+version: 1.0.3
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
@@ -24,7 +24,7 @@ dev_dependencies:
 
 flutter:
   assets:
-    - assets/lego/choiwoosung_intro_page_lego/movie.png
+    - assets/lego/choiwoosung_intro_page_lego/
   uses-material-design: true
 
 topics:
